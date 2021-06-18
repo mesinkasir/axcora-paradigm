@@ -85,6 +85,8 @@ And save , Your website is online now
 
 Test Drive demo → [https://websiteaplikasi.sourceforge.io](https://websiteaplikasi.sourceforge.io/)
 
+Video Demo [https://youtu.be/_8t9eAkRZpg](https://youtu.be/_8t9eAkRZpg)
+
 No need a database installation make your website very fast, and of course with SEO friendly include, simple and easy to use.
 
 [read documentation  →](https://axcora.com/getaxcoracms/index.php?id=get-started)
