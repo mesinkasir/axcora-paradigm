@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 18 Jun 2021 21:54:35 +0700</pubDate><title><![CDATA[Contact us]]></title><url><![CDATA[contact-us]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Contact us]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;section class=&quot;intro&quot;&gt;
+&lt;header&gt;
+&lt;h1&gt;Contact Us&lt;/h1&gt;
+
+&lt;p&gt;Hubungi kami untuk informasi dan bantuan.&lt;/p&gt;
+&lt;/header&gt;
+
+&lt;div class=&quot;content&quot;&gt;
+	&lt;p&gt;Klik tombol dibawah ini untuk menghubungi kami.&lt;/p&gt;
+	&lt;a class=&quot;button primary large&quot; href=&quot;https://wa.me/6285646104747&quot;&gt;Whatsapp&lt;/a&gt; &lt;a class=&quot;button large&quot; href=&quot;tel:+6285331361404&quot;&gt;Call Us&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;&lt;a class=&quot;button primary large&quot; href=&quot;mailto:axcora@gmail.com&quot;&gt;Email&lt;/a&gt;&lt;/div&gt;
+&lt;/section&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>
