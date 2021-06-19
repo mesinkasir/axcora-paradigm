@@ -8,6 +8,8 @@ How to install ?? [read documentation  →](https://axcora.com/getaxcoracms/inde
 
 Test Drive demo → [https://websiteaplikasi.sourceforge.io](https://websiteaplikasi.sourceforge.io/)
 
+[Demo book mode →](https://i-pos.sourceforge.io/)
+
 ---------------------------------
 
 ### Frontend
